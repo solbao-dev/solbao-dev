@@ -1,55 +1,61 @@
 # Hi, I'm Solji Yoon 👋
 
 ### AI & Software Developer with a Service & Marketing Background
+### 서비스와 사용자를 이해하고, 기술로 구현하는 개발자 윤솔지입니다.
 
-I’m building my software engineering skills on top of a professional background in **service and marketing**.
-My strength is connecting **users, services, and technology** — understanding real user needs, shaping them into practical service ideas, and turning those ideas into working software.
+I’m building software engineering skills on top of a professional background in **service and marketing**. My strength is connecting **users, services, markets, and technology** — understanding real needs, shaping them into practical service ideas, and turning those ideas into working software.
 
-I’m currently developing a stronger foundation in software engineering through **CODYSSEY AI All-in-One**, while continuing to explore projects where technology creates meaningful user value.
+저는 **서비스·마케팅 도메인 경험**을 기반으로 소프트웨어 개발 역량을 확장하고 있습니다. 단순히 기능을 구현하는 데 그치지 않고, **사용자가 왜 이 기능을 필요로 하는지, 서비스 안에서 어떤 가치를 만들어야 하는지**를 함께 고민하는 것이 저의 강점입니다.
 
----
-
-## Service & Marketing Perspective
-
-My previous domain experience gives me a perspective that goes beyond implementation alone.
-
-- **User Understanding** — approaching products from the user’s needs and experience
-- **Service Thinking** — connecting individual features to the overall service journey
-- **Marketing Perspective** — considering positioning, communication, and real-world value
-- **Product Mindset** — moving from an idea to something people can actually use
-
-> I want to build software that works technically — and also makes sense to the people who use it.
+Currently learning through **CODYSSEY AI All-in-One** and building projects that connect technical implementation with meaningful user value.
 
 ---
 
-## Development Journey
+## Service & Marketing Perspective | 서비스·마케팅 관점
+
+My domain background gives me a perspective that goes beyond implementation alone.
+
+- **User Understanding | 사용자 이해** — 사용자 니즈와 경험에서 문제를 바라봅니다.
+- **Service Thinking | 서비스 사고** — 개별 기능을 전체 서비스 경험과 연결합니다.
+- **Marketing Perspective | 마케팅 관점** — 포지셔닝, 커뮤니케이션, 실제 시장 가치를 함께 고려합니다.
+- **Product Mindset | 제품 관점** — 아이디어를 실제 사용 가능한 제품과 경험으로 구체화합니다.
+
+> **Build with technology. Think with users.**  
+> 기술적으로 동작하는 것을 넘어, 사용자에게 의미 있는 소프트웨어를 만들고 싶습니다.
+
+---
+
+## Development Journey | 개발 여정
 
 ### CODYSSEY AI All-in-One
 
-**Foundation Program**  
-Linux · Git · Docker · Python · OOP · Computer Architecture
+#### 01 · Foundation Program | 입학연수과정
+`Linux` `Git` `Docker` `Python` `OOP` `Computer Architecture`
 
-- [Developer Workstation](https://github.com/solbao-dev/developer-workstation) — Linux CLI, Docker, and Git development environment
-- [Python Quiz Game](https://github.com/solbao-dev/python-quiz-game) — console quiz application built with Python, OOP, JSON, and Git
-- [Mini NPU Simulator](https://github.com/solbao-dev/mini-npu-simulator) — implementation of MAC operations and pattern classification fundamentals
+- [Developer Workstation](https://github.com/solbao-dev/developer-workstation) — Linux CLI, Docker, Git 기반 개발 환경 구축
+- [Python Quiz Game](https://github.com/solbao-dev/python-quiz-game) — Python OOP와 JSON 상태 저장을 활용한 콘솔 퀴즈 애플리케이션
+- [Mini NPU Simulator](https://github.com/solbao-dev/mini-npu-simulator) — MAC 연산과 패턴 판정 원리를 직접 구현한 NPU 시뮬레이터
 
-**Tool Learning**  
-Web · Linux/OS · Data Structures & Algorithms · Database · Cloud/API
+#### 02 · Tool Learning | AI 도구 학습
+`Web` `Linux / OS` `Data Structures & Algorithms` `Database` `Cloud / API`
 
-- [Linux System Monitor](https://github.com/solbao-dev/linux-system-monitor) — Linux system resource monitoring
-- [Responsive Web Portfolio](https://github.com/solbao-dev/responsive-web-portfolio) — responsive web development with vanilla HTML, CSS, and JavaScript
-- [Mini Redis](https://github.com/solbao-dev/mini-redis) — Redis-like in-memory data store built from scratch with Hash Map, LRU, TTL, and Min Heap concepts
+- [Linux System Monitor](https://github.com/solbao-dev/linux-system-monitor) — Linux 서버 보안·권한·리소스 모니터링 실습
+- [Responsive Web Portfolio](https://github.com/solbao-dev/responsive-web-portfolio) — Vanilla HTML/CSS/JavaScript 기반 반응형 웹 포트폴리오
+- [Mini Redis](https://github.com/solbao-dev/mini-redis) — Hash Map, Doubly Linked List, LRU, TTL, Min Heap을 직접 구현한 인메모리 저장소
 
-**Advanced Learning** — Coming next  
+#### 03 · Advanced Learning | AI 심화 학습
+**Coming next**
 
-**Applied Learning** — Coming next
+#### 04 · Applied Learning | AI 응용 학습
+**Coming next**
 
 ---
 
 ## Projects
 
 ### Mindful Do
-A project exploring how software can support more intentional task management and user experience.
+A project exploring how software can support more intentional task management and user experience.  
+사용자가 더 의도적으로 할 일을 관리할 수 있는 경험을 탐구하는 프로젝트입니다.
 
 `React` `Supabase` `Product Thinking`
 
@@ -57,15 +63,16 @@ A project exploring how software can support more intentional task management an
 
 ## Challenges & Hackathons
 
-### AI Productivity Assistant · Lipcoding 2026
+### [AI Productivity Assistant](https://github.com/solbao-dev/ai-productivity-assistant) · Lipcoding 2026
 
-An AI productivity assistant created as a challenge project using GitHub Models API.
+An AI productivity assistant designed around the user question **“What should I do first?”**  
+할 일이 많을 때 **“무엇부터 해야 하지?”**라는 사용자의 의사결정 문제를 AI로 해결하는 생산성 도우미입니다.
 
-[View Project](https://github.com/solbao-dev/ai-productivity-assistant)
+`JavaScript` `GitHub Models API` `AI` `UX` `Product Thinking`
 
 ---
 
-## Tech Stack
+## Tech Stack | 기술 스택
 
 **Languages & Web**  
 `Python` `HTML` `CSS` `JavaScript`
@@ -78,8 +85,10 @@ An AI productivity assistant created as a challenge project using GitHub Models 
 
 ---
 
-## What I'm Building Toward
+## What I'm Building Toward | 성장 방향
 
-I’m growing toward becoming a developer who can connect **technical implementation, service design, and user value** — combining software engineering with the service and marketing perspective I already bring.
+I’m growing toward becoming a developer who connects **technical implementation, service design, user understanding, and market perspective**.
+
+**기술 구현력에 서비스 기획과 마케팅 관점을 더해, 사용자의 실제 문제를 발견하고 제품으로 구현할 수 있는 개발자**로 성장하고 있습니다.
 
 > Build with technology. Think with users. Grow through practice.
