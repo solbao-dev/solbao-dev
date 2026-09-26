@@ -63,7 +63,7 @@ A project exploring how software can support more intentional task management an
 
 ## Challenges & Hackathons
 
-### [TabDone · Productivity Assistant](https://github.com/solbao-dev/ai-productivity-assistant) · Lipcoding 2026
+### [TabDone · Productivity Assistant](https://github.com/solbao-dev/tabdone-productivity-assistant) · Lipcoding 2026
 
 **One tab. One focus. Get it done.**  
 여러 탭에 할 일을 쌓아두는 대신, **하나의 탭에서 우선순위를 정하고 집중해서 세션 안에 일을 끝내는** productivity assistant입니다.
