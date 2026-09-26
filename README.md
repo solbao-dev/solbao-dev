@@ -63,12 +63,14 @@ A project exploring how software can support more intentional task management an
 
 ## Challenges & Hackathons
 
-### [AI Productivity Assistant](https://github.com/solbao-dev/ai-productivity-assistant) · Lipcoding 2026
+### [TabDone · Productivity Assistant](https://github.com/solbao-dev/ai-productivity-assistant) · Lipcoding 2026
 
-An AI productivity assistant designed around the user question **“What should I do first?”**  
-할 일이 많을 때 **“무엇부터 해야 하지?”**라는 사용자의 의사결정 문제를 AI로 해결하는 생산성 도우미입니다.
+**One tab. One focus. Get it done.**  
+여러 탭에 할 일을 쌓아두는 대신, **하나의 탭에서 우선순위를 정하고 집중해서 세션 안에 일을 끝내는** productivity assistant입니다.
 
-`JavaScript` `GitHub Models API` `AI` `UX` `Product Thinking`
+초기 해커톤 프로토타입에서는 GitHub Models API 기반 AI 분석을 구현하고 Azure Static Web Apps로 배포했습니다. 해커톤 종료 후 공개 포트폴리오 버전은 방문자의 credential을 요구하지 않는 security-first 정적 앱으로 재설계하고 GitHub Pages로 전환했습니다.
+
+`JavaScript` `Product Design` `Security` `Privacy` `GitHub Models (prototype)`
 
 ---
 
